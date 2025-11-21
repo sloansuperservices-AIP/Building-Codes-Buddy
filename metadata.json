@@ -1,0 +1,8 @@
+{
+  "name": "General Contractor Code Buddy",
+  "description": "An AI-powered assistant for general contractors. Manage projects, upload files, record video walkthroughs with automatic transcription and project plan generation, and consult an AI code expert on IBC 2018, NFPA, and 2018 NEC.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
